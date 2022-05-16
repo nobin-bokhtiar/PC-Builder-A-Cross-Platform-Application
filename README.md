@@ -1,0 +1,4 @@
+# PC-Builder-A-Cross-Platform-Application
+The software system being produced is called “PC Builder.” It is being produced for the users who want to build a PC within a fixed budget. This software will help them to setup their PC by choosing the parts of the PC automatically, as well as they also can choose the parts of their own. So, the system can be useful for both non-technical and technical users. This system is largely cross-platform and is available to anyone using the website or the android application. The system will be run on a central server. There will be two different user interfaces. One is for the android app users and the other one is for the web browsers. I did this project for my NSU CSE-327(Software Engineering) course in 2020.
+
+# To learn more about this project read the SRS and SDS.
